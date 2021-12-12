@@ -1,0 +1,45 @@
+#cat1 {
+    width:215px;
+    float:left;
+    margin-top:40px;
+    font-weight:bold;
+    border :solid 1px black;
+    margin-left: 230px;
+}
+#cat1 #cat_title {
+    background-color:#1c69c2;
+    color:#ffffff;
+    height: 80px;
+    font-size: 30px; 
+    
+}
+#cat1 li {
+    color:#666666;
+    padding:10px 0 10px 20px;
+    border-bottom:solid 1px #cccccc;
+}
+#cat1 a {
+    color:#666666;
+    text-decoration: none;
+}
+#cat1 a:hover{
+    color: #1c69c2;
+}
+#cat_title {
+    padding: 40px 0 0 40px;
+}
+#teacher_insa{
+    border-bottom: solid 1px rgb(194, 194, 194);
+    font-weight: bold;
+    font-size: 30px;
+    width: 800px;
+    margin-left: 500px;
+    padding : 60px 0 10px 0;
+}#teacher_text img{
+    height: 700px;
+    width: 800px;
+    margin-left: 40px;
+}
+footer{
+    margin-top: 150px;
+}
